@@ -1,10 +1,8 @@
 # A Template for Creating a Full Stack Web Application with Flask, NPM, Webpack and Reactjs
 
 ## About
-This is a **Hello React!** web app template written in Python-Flask for the back end and React-JS for the front end. You can use this starter files as a template for your own web app projects.
+This is a **Hello React!** web app template written in Python-Flask for the back end and React-JS for the front end.
 
-## How to do it!
-You can find a walkthrough of this application from scratch on the [blog](https://medium.com/@tonyparkerkenz/a-template-for-creating-a-full-stack-web-application-with-flask-npm-webpack-and-reactjs-be2294b111bd)
 
 ## Instructions
 Below are the installing and running procedues
